@@ -1,6 +1,6 @@
-package map.subway.exception;
+package my.lotto.exception;
 
-import map.subway.view.LottoViewable;
+import my.lotto.view.LottoViewable;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;

@@ -1,4 +1,4 @@
-package map.subway.controller;
+package my.lotto.controller;
 
 public interface LottoControllable {
 

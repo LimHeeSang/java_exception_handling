@@ -1,7 +1,7 @@
-package map.subway.view;
+package my.lotto.view;
 
-import map.subway.controller.LottoFeature;
-import map.subway.controller.MainFeature;
+import my.lotto.controller.LottoFeature;
+import my.lotto.controller.MainFeature;
 
 import java.util.List;
 

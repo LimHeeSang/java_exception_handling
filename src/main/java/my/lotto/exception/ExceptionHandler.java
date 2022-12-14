@@ -1,4 +1,4 @@
-package map.subway.exception;
+package my.lotto.exception;
 
 import java.util.function.Consumer;
 import java.util.function.Supplier;

@@ -1,4 +1,4 @@
-package map.subway.exception;
+package my.lotto.exception;
 
 public class IllegalStateLottoCountException extends RuntimeException {
 

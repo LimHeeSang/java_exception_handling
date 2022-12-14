@@ -1,11 +1,11 @@
-package map.subway;
+package my.lotto;
 
-import map.subway.repository.LottoRepository;
-import map.subway.controller.FrontController;
-import map.subway.controller.LottoControllable;
-import map.subway.controller.LottoController;
-import map.subway.exception.MethodExceptionHandler;
-import map.subway.service.LottoService;
+import my.lotto.repository.LottoRepository;
+import my.lotto.controller.FrontController;
+import my.lotto.controller.LottoControllable;
+import my.lotto.controller.LottoController;
+import my.lotto.exception.MethodExceptionHandler;
+import my.lotto.service.LottoService;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;

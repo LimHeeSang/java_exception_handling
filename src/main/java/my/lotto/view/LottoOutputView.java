@@ -1,4 +1,4 @@
-package map.subway.view;
+package my.lotto.view;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package map.subway.repository;
+package my.lotto.repository;
 
-import map.subway.model.Lotto;
+import my.lotto.model.Lotto;
 
 import java.util.ArrayList;
 import java.util.Collections;

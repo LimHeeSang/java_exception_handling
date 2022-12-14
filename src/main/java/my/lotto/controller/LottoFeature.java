@@ -1,6 +1,6 @@
-package map.subway.controller;
+package my.lotto.controller;
 
-import map.subway.exception.ExceptionHandler;
+import my.lotto.exception.ExceptionHandler;
 
 import java.util.Arrays;
 import java.util.function.Consumer;

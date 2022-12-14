@@ -1,9 +1,9 @@
-package map.subway.controller;
+package my.lotto.controller;
 
-import map.subway.service.LottoService;
-import map.subway.view.LottoInputView;
-import map.subway.view.LottoOutputView;
-import map.subway.view.LottoViewable;
+import my.lotto.service.LottoService;
+import my.lotto.view.LottoInputView;
+import my.lotto.view.LottoOutputView;
+import my.lotto.view.LottoViewable;
 
 import java.util.List;
 

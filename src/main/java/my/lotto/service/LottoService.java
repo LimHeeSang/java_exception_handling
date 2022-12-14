@@ -1,8 +1,8 @@
-package map.subway.service;
+package my.lotto.service;
 
-import map.subway.repository.LottoRepository;
-import map.subway.exception.IllegalStateLottoCountException;
-import map.subway.model.Lotto;
+import my.lotto.repository.LottoRepository;
+import my.lotto.exception.IllegalStateLottoCountException;
+import my.lotto.model.Lotto;
 
 import java.util.List;
 import java.util.stream.Collectors;

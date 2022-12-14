@@ -1,6 +1,6 @@
-package map.subway.exception;
+package my.lotto.exception;
 
-import map.subway.controller.LottoControllable;
+import my.lotto.controller.LottoControllable;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;
@@ -23,7 +23,7 @@ public class MethodExceptionHandler implements InvocationHandler {
             System.out.println(targetException.getMessage());
 
             if (targetException instanceof IllegalStateLottoCountException) {
-                Class<?> aClass = Class.forName("map.subway.controller.LottoControllable");
+                Class<?> aClass = Class.forName("my.lotto.controller.LottoControllable");
                 Method deleteLottoMethod = aClass.getMethod("deleteLotto");
                 deleteLottoMethod.invoke(target, args);
             }
