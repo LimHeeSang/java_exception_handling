@@ -1,6 +1,6 @@
 package map.subway.service;
 
-import map.subway.Repository.LottoRepository;
+import map.subway.repository.LottoRepository;
 import map.subway.exception.IllegalStateLottoCountException;
 import map.subway.model.Lotto;
 

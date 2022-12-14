@@ -1,6 +1,6 @@
 package map.subway;
 
-import map.subway.Repository.LottoRepository;
+import map.subway.repository.LottoRepository;
 import map.subway.controller.FrontController;
 import map.subway.controller.LottoControllable;
 import map.subway.controller.LottoController;

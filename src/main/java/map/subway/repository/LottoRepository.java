@@ -1,4 +1,4 @@
-package map.subway.Repository;
+package map.subway.repository;
 
 import map.subway.model.Lotto;
 
